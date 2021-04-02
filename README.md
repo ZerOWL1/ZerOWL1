@@ -17,8 +17,7 @@
 </div>
 
 
-### Hi, I'm Luc Hai. You can call me Lu Chai or ZerOWL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+### Hi, I'm Luc Hai. You can call me Lu Chai or ZerOWL
 ## Your short description
 - 🔭 I’m currently working on - Uta95s Team.
 - 🌱 I’m currently learning - Front-End(ReactJS) and Back-End(NodeJS).
@@ -34,7 +33,7 @@
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
- - [Uta95s] - https://github.com/ZerOWL1/Uta95s-Music-Library
+ - [Uta95s](https://github.com/ZerOWL1/Uta95s-Music-Library)
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 [steam]: https://steamcommunity.com/id/odaryuu/
