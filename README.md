@@ -25,14 +25,12 @@
 - 👯 I’m looking to collaborate with - Other devs in community.
 - 💬 Ask me about - Steam, Front-End. Anything if i know i'll share you.
 - 🥅 2021 Goal - Uta95s-Music-Library Website (Java Web)
-<br>
 <!-- Also feel free to update second URL to any URL -->
 [![ZerOWL1's github stats](https://github-readme-stats.vercel.app/api?username=ZerOWL1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ## Connect with me:
 [<img align="left" alt="OdaRyuuSteam | Steam"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />][steam]
 [<img align="left" alt="ZerOWL | Facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
 [<img align="left" alt="ZerOWL | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]]
-<br>
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
