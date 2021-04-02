@@ -33,6 +33,7 @@
 [<img align="left" alt="ZerOWL | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <!-- Optional if you have blogs -->
 
+<br>
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
  - [Uta95s](https://github.com/ZerOWL1/Uta95s-Music-Library)
