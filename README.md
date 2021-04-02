@@ -1,3 +1,4 @@
+
 <div align="center">
 	<img width="450" height="350" src="https://i.pinimg.com/originals/d6/71/b5/d671b57b99533df856544bb3f30fe559.gif" alt="Awesome">
 	<br>
@@ -17,14 +18,28 @@
 </div>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Luc Hai. You can call me Lu Chai or ZerOWL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+## Your short description
+- 🔭 I’m currently working on - Uta95s Team.
+- 🌱 I’m currently learning - Front-End(ReactJS) and Back-End(NodeJS).
+- 👯 I’m looking to collaborate with - Other devs in community.
+- 💬 Ask me about - Steam, Front-End. Anything if i know i'll share you.
+- 🥅 2021 Goal - Uta95s-Music-Library Website (Java Web)
+- 
+<!-- Also feel free to update second URL to any URL -->
+[![ZerOWL1's github stats](https://github-readme-stats.vercel.app/api?username=ZerOWL1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+## Connect with me:
+[<img align="left" alt="OdaRyuuSteam | Steam"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />][steam]
+[<img align="left" alt="ZerOWL | Facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
+[<img align="left" alt="ZerOWL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<!-- Optional if you have blogs -->
+## Latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- This section you create this variables that are used above -->
+[steam]: https://steamcommunity.com/id/odaryuu/
+[facebook]: https://www.facebook.com/ZerOwl1/
+[linkedin]: 
 
