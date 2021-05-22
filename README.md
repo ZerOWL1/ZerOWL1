@@ -26,7 +26,7 @@
 - 🥅 2021 Goal - Uta95s-Music-Library Website (Java Web)
 <!-- Also feel free to update second URL to any URL -->
 
-[![ZerOWL1's github stats](https://github-readme-stats.vercel.app/api?username=ZerOWL1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![ZerOWL1's github stats](https://github-readme-stats.vercel.app/api?username=ZerOWL1&count_private=true&include_all_commits=true&theme=radical)](//input-link-here)
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
