@@ -32,12 +32,13 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
- - [Uta95s](https://github.com/ZerOWL1/Uta95s-Music-Library)
+ - [Uta95s Music Library](https://github.com/ZerOWL1/Uta95s-Music-Library)
+ - [Uta95s Movie Website](https://github.com/ZerOWL1/Uta95s-Movie-Website)
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 
 ## Connect with me:
-[<img align="left" alt="OdaRyuuSteam | Steam"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />][steam]
+[<img align="left" alt="ZerOWL | Steam"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />][steam]
 [<img align="left" alt="ZerOWL | Facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
 [<img align="left" alt="ZerOWL | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <!-- Optional if you have blogs -->
