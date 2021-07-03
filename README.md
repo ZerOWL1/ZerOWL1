@@ -27,6 +27,7 @@
 <!-- Also feel free to update second URL to any URL -->
 
 [![ZerOWL1's github stats](https://github-readme-stats.vercel.app/api?username=ZerOWL1&count_private=true&include_all_commits=true&theme=radical)](//input-link-here)
+[![ZerOWL1 most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerowl1&layout=compact&theme=radical)
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
