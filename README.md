@@ -18,7 +18,8 @@
 
 
 ### Hi, I'm Luc Hai. You can call me Lu Chai or ZerOWL
-## Your short description
+## My short description
+- 👌 Slogan: Keep calm and stack overflow.
 - 🔭 I’m currently working on - Uta95s Team.
 - 🌱 I’m currently learning - Front-End(ReactJS) and Back-End(NodeJS).
 - 👯 I’m looking to collaborate with - Other devs in community.
