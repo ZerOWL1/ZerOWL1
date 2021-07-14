@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img width="450" height="350" src="https://i.pinimg.com/originals/d6/71/b5/d671b57b99533df856544bb3f30fe559.gif" alt="Awesome">
+	<img width="450" height="350" src="https://i.pinimg.com/originals/d6/71/b5/d671b57b99533df856544bb3f30fe559.gif" alt="meda-chan">
 	<br>
 	<br>
 	<p>
