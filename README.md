@@ -19,7 +19,6 @@
 ### Hi, I'm Luc Hai. You can call me Lu Chai or ZerOWL
 ## My short description
 - 👌 Slogan: Keep calm and stack overflow.
-- 🔭 I’m currently working in - FSoft 
 - 🌱 I’m currently learning - .NET Frameworks Courses
 - 👯 I’m looking to collaborate with - Other devs in community.
 - 💬 Ask me about - Steam, Front-End. Anything if i know i'll share you.
