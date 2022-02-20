@@ -21,8 +21,8 @@
 - 👌 Slogan: Keep calm and stack overflow.
 - 🌱 I’m currently learning - .NET Frameworks Courses
 - 👯 I’m looking to collaborate with - Other devs in community.
-- 💬 Ask me about - Steam, Front-End. Anything if i know i'll share you.
-- 🥅 2021 Goal - Uta95s-Movie-Website ([ASP .NET Core MVC WEB](https://github.com/ZerOWL1/Uta95s-Movie-Website))
+- 💬 Ask me about - Steam, Front-End, .NET. Anything if i know i'll share you.
+- 🥅 2021 Goal - Uta95s-JustBlog-Website ([ASP .NET Core MVC WEB](https://github.com/ZerOWL1/Uta95s-JustBlog))
 <!-- Also feel free to update second URL to any URL -->
 
 [![ZerOWL1's github stats](https://github-readme-stats.vercel.app/api?username=ZerOWL1&count_private=true&include_all_commits=true&theme=radical)](//input-link-here)
@@ -33,6 +33,7 @@
 <!-- BLOG-POST-LIST:START -->
  - [Uta95s Music Library](https://github.com/ZerOWL1/Uta95s-Music-Library)
  - [Uta95s Movie Website](https://github.com/ZerOWL1/Uta95s-Movie-Website)
+ - [Uta95s JustBlog Website](https://github.com/ZerOWL1/Uta95s-JustBlog)
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 
@@ -41,6 +42,6 @@
 [<img align="left" alt="ZerOWL | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <!-- Optional if you have blogs -->
 
-[facebook]: https://www.facebook.com/ZerOwl1/
+[facebook]: https://www.facebook.com/empecuachiyen.zerowl1/
 [linkedin]: https://www.linkedin.com/in/l%E1%BB%A5c-d%C6%B0%C6%A1ng-h%E1%BA%A3i-52903a20b/
 
