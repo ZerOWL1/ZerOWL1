@@ -39,7 +39,6 @@
 
 ## Connect with me:
 [<img align="left" alt="ZerOWL | Facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
-[<img align="left" alt="ZerOWL | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <!-- Optional if you have blogs -->
 
 [facebook]: https://www.facebook.com/empecuachiyen.zerowl1/
