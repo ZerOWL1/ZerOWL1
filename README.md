@@ -41,6 +41,6 @@
 [<img align="left" alt="ZerOWL | Facebook" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
 <!-- Optional if you have blogs -->
 
-[facebook]: https://www.facebook.com/empecuachiyen.zerowl1/
+[facebook]: https://www.facebook.com/auth.zerowl1/
 [linkedin]: https://www.linkedin.com/in/l%E1%BB%A5c-d%C6%B0%C6%A1ng-h%E1%BA%A3i-52903a20b/
 
