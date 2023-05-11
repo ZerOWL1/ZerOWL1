@@ -6,7 +6,7 @@
 	<p>
 		<sup>Special thanks to:</sup>
 			<div>
-				<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fappharbor.com%2Fassets%2Fimages%2Fstackoverflow-logo.png&f=1&nofb=1" width="240" alt="StackOver">
+				<img src="https://download.logo.wine/logo/Stack_Overflow/Stack_Overflow-Logo.wine.png" width="240" alt="StackOver">
 			</div>
 			<br>
 	</p>
